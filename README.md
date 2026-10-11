@@ -16,7 +16,7 @@ HTML5 · CSS3 · JavaScript
 
 ### 🚀 Hosted on GitHub pages
 
-view this website in browser by visiting this link : 
+view this website in browser by visiting this link : https://yaseen-2006.github.io/Portfolio-website/
 
 ### 👨‍💻 Author
 
